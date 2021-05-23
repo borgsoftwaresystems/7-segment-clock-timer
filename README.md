@@ -7,6 +7,8 @@ This project turns a 7 segment TM1637 display into a simple clock and timer.
 
 This project require the Pi Pico, display, four switches and a piezo buzzer.
 
+You will need to set the correct pins for your setup in the 7_segment_clock_timer.cpp file.
+
 The buttons work as follows:
 
 Whilst in the menu:
